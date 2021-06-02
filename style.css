@@ -1,0 +1,126 @@
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    width: 1350px;
+    /* height: 2500px; */
+    color: #4e4e4e;
+    background-image: url("./img/draco.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 216px;
+    background-position-y: 156px;;
+    background-attachment: fixed;
+    padding-left: 343px;
+}
+
+.hello {
+    margin-top: 110px;
+    /* margin-left: 345px; */
+    display: inline-block;
+    color: #4e4e4e;
+}
+
+.nav {
+    height: 83px;
+    padding-left: 343px;
+    background-color: #f4f4f4;
+    /* margin-bottom: 156px; */
+}
+
+.nav a {
+    margin-right: 64px;
+    line-height: 83px;
+    color: #ababab;
+    text-decoration: none;
+    outline: none;
+}
+.nav a:hover {
+    color: #616060;
+}
+#nav-finish {
+    margin-right: 0px;
+}
+
+.img {
+    padding-top: 80px;
+    /* margin-left: 343px; */
+    border-radius: 40px;
+    /* border: 1px solid red; */
+    width: ;
+}
+
+.far {
+    margin-left: 107px;
+    margin-bottom: 39px;
+    color: #000;
+}
+
+.about {
+    /* margin-left: 345px; */
+    margin-right: 345px;
+    color: #5e5e5e;
+    margin-bottom: 122px;
+}
+
+.work {
+    /* margin-left: 345px; */
+    color: #333;
+    margin-bottom: 41px;
+}
+
+span {
+    margin-left: 343px;
+}
+
+/* ----------FOOTER------------- */
+
+.footer {
+    height: 445px;
+    background-image: url("./img/gul.jpg");
+    padding-top: 84px;
+    margin-top: 100px;
+} 
+
+.footer a{
+    text-decoration: none;
+    height: 400px;
+    color: #fff;
+    /* text-align: center; */
+    line-height: 140px;
+    text-align: center;
+    padding-left: 45px;
+    display: block;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.fight {
+    box-shadow: -5px -5px 5px rgba(255, 255, 255, 1);
+    height: 140px;
+    width: 610px;
+    margin-left: 370px;
+    /* margin-top: 84px; */
+    border-radius: 10px;
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+
+.for-color-1 {
+    color: #a8a8a8;
+    font-family: sans-serif;
+}
+.for-color-2 {
+    color: #4f4f4f;
+    font-family: sans-serif;
+}
+.for-color-3 {
+    color: #5f5f5f;
+    font-family: sans-serif;
+}
+.web-designer {
+    margin-bottom: 23px;
+    border-bottom: 23px solid red;
+}
